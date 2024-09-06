@@ -1,0 +1,17 @@
+
+#profile:hover label{
+top: 0;
+z-index: 100;
+transition: all 300ms ease-in;
+border-radius: 900px;
+align-items: center;
+padding-top: 0;
+}
+
+.isactive{
+   gap: 2.75rem;
+}
+.bg-active-menu{
+    background-color: #1e293b ;
+    border-radius: 100px;
+}
