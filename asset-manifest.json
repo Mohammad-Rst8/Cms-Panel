@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cms-Panel/static/css/main.0c9462fb.css",
-    "main.js": "/Cms-Panel/static/js/main.33d4deaa.js",
-    "static/media/1264291.png": "/Cms-Panel/static/media/1264291.b656a3c210869ea01bf5.png",
+    "main.js": "/Cms-Panel/static/js/main.aad21f7d.js",
+    "static/media/1264291.png": "/Cms-Panel/static/media/1264291.3de37feffdd2b22d0174.png",
     "static/media/iranyekanwebmedium.ttf": "/Cms-Panel/static/media/iranyekanwebmedium.5e4e58d1b969750544ef.ttf",
     "index.html": "/Cms-Panel/index.html",
     "main.0c9462fb.css.map": "/Cms-Panel/static/css/main.0c9462fb.css.map",
-    "main.33d4deaa.js.map": "/Cms-Panel/static/js/main.33d4deaa.js.map"
+    "main.aad21f7d.js.map": "/Cms-Panel/static/js/main.aad21f7d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c9462fb.css",
-    "static/js/main.33d4deaa.js"
+    "static/js/main.aad21f7d.js"
   ]
 }
