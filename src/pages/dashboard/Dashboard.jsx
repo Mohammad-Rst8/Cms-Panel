@@ -23,7 +23,7 @@ export default function Dashboard() {
     </div>
 
     <div className='w-full'>
-      <h2>تراکنش های اخیر</h2>
+      <h2 className="p-2.5 font-bold mt-3">تراکنش های اخیر</h2>
       <table className='w-full text-center'>
         <thead role='rowgroup' className=''>
           <tr role='row' className=' bg-slate-900 py-2 px-1 mx-2 [&>*]:border-slate-700 [&>*]:border-l-2 h-14 rounded-md  [&>*]:px-2'>
